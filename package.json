@@ -1,0 +1,42 @@
+{
+  "name": "anti-captcha-fix-taskid",
+  "version": "1.0.0",
+  "description": "Anti-Captcha.com npm library fixed the problem of getting a taskid when executing asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anticaptcha",
+    "captcha",
+    "recaptcha",
+    "hcaptcha",
+    "hcaptcha enterprise",
+    "hcaptcha rqdata",
+    "recaptchav2",
+    "recaptcha enterprise",
+    "funcaptcha",
+    "arkoselabs",
+    "geetest",
+    "turnstile",
+    "turnstile captcha",
+    "antigate",
+    "2captcha",
+    "decaptcher",
+    "deathbycaptcha",
+    "cloudflare",
+    "cloudflare bypass",
+    "datadome",
+    "datadome bypass",
+    "object coordinates"
+  ],
+  "author": "Slevin-aka-Scourge",
+  "license": "ISC",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Slevin-aka-Scourge/anti-captcha-fix-taskid.git"
+	},
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
